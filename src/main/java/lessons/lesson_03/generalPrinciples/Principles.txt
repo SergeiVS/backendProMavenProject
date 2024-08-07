@@ -1,0 +1,13 @@
+DRY- don`t repeat yourself;
+
+SSOT- single source of truth;
+
+KISS- Keep it simple, stupid
+      Keep is stupid simple;
+
+SOLID-
+    Single responsibility principle
+    Open-Close principle "Modules are open for writing and closed for modification"
+    Liskov substitution principle
+    Interface segregation principle
+    Dependency inversion principle
