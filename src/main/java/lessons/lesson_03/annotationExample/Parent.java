@@ -1,4 +1,4 @@
 package lessons.lesson_03.annotationExample;
-
-public class Parent {
+@MyAnnotation
+public class Parent implements MyMark {
 }
